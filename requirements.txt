@@ -1,0 +1,5 @@
+jax>=0.4.28
+jaxlib>=0.4.28
+jaxopt>=0.8.3
+pennylane>=0.37.0
+pytest>=8.0.0
